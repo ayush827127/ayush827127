@@ -20,8 +20,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_ayu_ssss_h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_ayu_ssss_h" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ayush-gupta-4332731b1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ayush-gupta-4332731b1/" height="30" width="40" /></a>
-<a href="https://fb.com/https://m.facebook.com/profile.php?id=100012083976241&_rdr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://m.facebook.com/profile.php?id=100012083976241&_rdr" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ayush-gupta-4332731b1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ayush-gupta-4332731b1/" height="30" width="40" /></a>
+<a href="https://m.facebook.com/profile.php?id=100012083976241&_rdr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://m.facebook.com/profile.php?id=100012083976241&_rdr" height="30" width="40" /></a>
 <a href="https://instagram.com/ayush__gupta_______" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayush__gupta_______" height="30" width="40" /></a>
 </p>
 
