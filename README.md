@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Railway website (my personal project))**
 
-- 🌱 I’m currently learning **Generative Ai**
+- 🌱 I’m currently learning **Next Js**
 
 - 👨‍💻 All of my projects are available at [https://ayush827127.github.io/ayush/](https://ayush827127.github.io/ayush/)
 
